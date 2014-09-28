@@ -1,0 +1,303 @@
+{
+    "sets": {
+        "markers": {
+            "areas": {},
+            "hide": false,
+            "label": "Markers",
+            "layerprio": 0,
+            "markers": {
+                "_spawn_world": {
+                    "dim": "16x16",
+                    "icon": "bed",
+                    "label": "Spawn",
+                    "markup": false,
+                    "x": 0.0,
+                    "y": 64.0,
+                    "z": 0.0
+                },
+                "end-portal": {
+                    "dim": "16x16",
+                    "icon": "theater",
+                    "label": "End Portal",
+                    "markup": false,
+                    "x": -590.0,
+                    "y": 64.0,
+                    "z": -345.0
+                },
+                "Ambrosia": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Ambrosia",
+                    "markup": false,
+                    "x": 2458.0,
+                    "y": 64.0,
+                    "z": -2370.0
+                },
+                "Freyhill": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Freyhill",
+                    "markup": false,
+                    "x": 1.0,
+                    "y": 64.0,
+                    "z": -1317.0
+                },
+                "Hermits_Rest": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Hermit's_Rest",
+                    "markup": false,
+                    "x": -958.0,
+                    "y": 64.0,
+                    "z": -636.0
+                },
+                "Hochfeld": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Hochfeld",
+                    "markup": false,
+                    "x": 0.0,
+                    "y": 64.0,
+                    "z": -3900.0
+                },
+                "Mardu": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Mardu",
+                    "markup": false,
+                    "x": -1100.0,
+                    "y": 64.0,
+                    "z": 3823.0
+                },
+                "Mercenarys_Outpost": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Mercenary's_Outpost",
+                    "markup": false,
+                    "x": 845.0,
+                    "y": 64.0,
+                    "z": -2039.0
+                },
+                "MetalMountains": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "MetalMountains",
+                    "markup": false,
+                    "x": -420.0,
+                    "y": 64.0,
+                    "z": 666.0
+                },
+                "NewHaverbrook": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "NewHaverbrook",
+                    "markup": false,
+                    "x": -1700.0,
+                    "y": 64.0,
+                    "z": -1700.0
+                },
+                "New_Market": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "New_Market",
+                    "markup": false,
+                    "x": 1425.0,
+                    "y": 64.0,
+                    "z": -2097.0
+                },
+                "New_Pondsburgh": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "New_Pondsburgh",
+                    "markup": false,
+                    "x": -100.0,
+                    "y": 64.0,
+                    "z": 460.0
+                },
+                "phoenix": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "phoenix",
+                    "markup": false,
+                    "x": 511.0,
+                    "y": 64.0,
+                    "z": 20.0
+                },
+                "Aqua": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Aqua",
+                    "markup": false,
+                    "x": -3106.0,
+                    "y": 64.0,
+                    "z": -2360.0
+                },
+                "Pico": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Pico",
+                    "markup": false,
+                    "x": 350.0,
+                    "y": 64.0,
+                    "z": 2549.0
+                },
+                "port80": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "port80",
+                    "markup": false,
+                    "x": 0.0,
+                    "y": 64.0,
+                    "z": 625.0
+                },
+                "puggleston": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "puggleston",
+                    "markup": false,
+                    "x": 1130.0,
+                    "y": 64.0,
+                    "z": -1347.0
+                },
+                "Rose": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Rose",
+                    "markup": false,
+                    "x": 2500.0,
+                    "y": 64.0,
+                    "z": 0.0
+                },
+                "Seneca": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Seneca",
+                    "markup": false,
+                    "x": -2563.0,
+                    "y": 64.0,
+                    "z": 2813.0
+                },
+                "Seneca_Minor": {
+                    "dim": "16x16",
+                    "icon": "sign",
+                    "label": "Seneca_Minor",
+                    "markup": false,
+                    "x": -3498.0,
+                    "y": 64.0,
+                    "z": 3947.0
+                },
+                "Tootholm": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Tootholm",
+                    "markup": false,
+                    "x": -3142.0,
+                    "y": 64.0,
+                    "z": 2665.0
+                },
+                "UnceHaven": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "UnceHaven",
+                    "markup": false,
+                    "x": -80.0,
+                    "y": 64.0,
+                    "z": 0.0
+                },
+                "Vinhaven": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Vinhaven",
+                    "markup": false,
+                    "x": -3898.0,
+                    "y": 64.0,
+                    "z": -2355.0
+                },
+                "whiteoak": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "whiteoak",
+                    "markup": false,
+                    "x": 0.0,
+                    "y": 64.0,
+                    "z": -2497.0
+                },
+                "Argoth": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Argoth",
+                    "markup": false,
+                    "x": 2237.0,
+                    "y": 64.0,
+                    "z": -2685.0
+                },
+                "Yowie": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Yowie",
+                    "markup": false,
+                    "x": 2368.0,
+                    "y": 64.0,
+                    "z": -2368.0
+                },
+                "Atrox": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Atrox",
+                    "markup": false,
+                    "x": 1930.0,
+                    "y": 64.0,
+                    "z": -3332.0
+                },
+                "Aurora": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Aurora",
+                    "markup": false,
+                    "x": 1800.0,
+                    "y": 64.0,
+                    "z": 2200.0
+                },
+                "Avalon": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Avalon",
+                    "markup": false,
+                    "x": 1035.0,
+                    "y": 64.0,
+                    "z": 1587.0
+                },
+                "Brom": {
+                    "dim": "16x16",
+                    "icon": "portal",
+                    "label": "Brom",
+                    "markup": false,
+                    "x": -3000.0,
+                    "y": 64.0,
+                    "z": -3057.0
+                },
+                "Charcolia": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "Charcolia",
+                    "markup": false,
+                    "x": 1100.0,
+                    "y": 64.0,
+                    "z": 1100.0
+                },
+                "CTown": {
+                    "dim": "16x16",
+                    "icon": "pin",
+                    "label": "CTown",
+                    "markup": false,
+                    "x": -28.0,
+                    "y": 64.0,
+                    "z": -739.0
+                }
+            },
+            
+            "minzoom": 0
+        }
+    },
+    "timestamp": 1329752323592
+}
